@@ -13,6 +13,6 @@ import { AppComponent } from './app.component';
     AppRoutingModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent] //this allows the selector tag in html!
 })
 export class AppModule { }
